@@ -1,4 +1,4 @@
-# Naveen Reddie
+# Naveen Kumar Reddy
 
 ### AI/ML Engineer | LLMs | GenAI | Deep Learning | AI Security
 
